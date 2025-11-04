@@ -6,7 +6,7 @@
 #include <fstream>
 #include <cstring>
 
-#define BUFFER_SIZE 1024
+#define BUFFER_SIZE 3
 #define TOP_LETTERS 10
 #define DO_WAITING true
 #define THREAD_COUNT 3
